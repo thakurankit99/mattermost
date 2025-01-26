@@ -81,7 +81,7 @@ describe('components/invitation_modal/overage_users_banner_notice', () => {
                     ExpiresAt: '1620335443650',
                     SkuShortName: 'Enterprise',
                     Name: 'LicenseName',
-                    Company: 'Mattermost Inc.',
+                    Company: 'UnihubConnect',
                     Users: String(seatsPurchased),
                     Id: licenseId,
                 },
